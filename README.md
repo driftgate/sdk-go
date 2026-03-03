@@ -4,6 +4,12 @@ Canonical V4 envelope SDK for Go.
 
 See canonical envelope docs: [`docs/sdk/response-envelope.md`](/Users/jordandavis/Documents/Code/DriftGateAI/driftgate-v4-sdk-wt/docs/sdk/response-envelope.md).
 
+## Install
+
+```bash
+go get github.com/driftgate/sdk-go@v0.1.0
+```
+
 ## Hello World (2 lines)
 
 ```go
